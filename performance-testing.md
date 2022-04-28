@@ -63,7 +63,7 @@ Few unique point:
 1: @12:17 PM Stopped Master_Bangalore process, again started 12:31 PM and check later 12:40 PM \
 but still there was **no lag** in Master_Bangalore
 
-2. Started Master_Munich first and later started Master_Bangalore but still Master_Munich was behind.
+2: Started Master_Munich first and later started Master_Bangalore but still Master_Munich was behind.
 
 ````
 
