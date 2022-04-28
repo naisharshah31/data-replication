@@ -11,7 +11,7 @@ Then started Master_Munich
 
 
 ### Test 1: Checked at 12:00 PM 🕧 (`seconds_behind_master`)
-**Master_Bangalore = 0**\ (Up-to-date)
+**Master_Bangalore = 0** (Up-to-date) \ 
 **Master_Munich = 234** (3.9 minutes delay) 
 
 ###### Records:
@@ -30,7 +30,7 @@ In Replica:       152192
 
 
 ### Test 3: Checked at 12:30 PM 🕧 (`seconds_behind_master`)
-**Master_Bangalore = 0**\ (Up-to-date)
+**Master_Bangalore = 0** (Up-to-date) \
 **Master_Munich = 969** ( 16 minutes delay) 
 
 ###### Records:
