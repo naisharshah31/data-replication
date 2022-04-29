@@ -18,14 +18,14 @@ Then started Master_Munich
 In Master_Munich: 275914 \
 In Replica:       152192
 
-##### *Observation*: After 8 minutes of execution in Master_Munich, replica was 3.9 seconds behind
+##### *Observation*: After 8 minutes of execution in Master_Munich, replica was 3.9 minutes behind
 
 
 ### Test 2: Checked at 12:06 PM 🕧 (`seconds_behind_master`)
 **Master_Bangalore = 0**\
 **Master_Munich = 384** ( 6.4 minutes) 
 
-##### *Observation*: After 14 minutes of execution in Master_Munich, replica was 6.4 seconds behind
+##### *Observation*: After 14 minutes of execution in Master_Munich, replica was 6.4 minutes behind
 
 
 
@@ -37,7 +37,7 @@ In Replica:       152192
 In Master_Munich: 1343678 \
 In Replica:       780700
 
-##### *Observation*: After 38 minutes of execution in Master_Munich, replica was 16 seconds behind
+##### *Observation*: After 38 minutes of execution in Master_Munich, replica was 16 minutes behind
 
 
 
@@ -45,7 +45,7 @@ In Replica:       780700
 **Master_Bangalore = 0**\ (Up-to-date)
 **Master_Munich = 1091** ( 18.1 minutes delay) 
 
-##### *Observation*: After 43 minutes of execution in Master_Munich, replica was 18.1 seconds behind
+##### *Observation*: After 43 minutes of execution in Master_Munich, replica was 18.1 minutes behind
 
 ## Conclusion
 
